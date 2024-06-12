@@ -1,6 +1,6 @@
 ## aws-database-sample-scripts
 
-A set of example scripts.
+This repository contains a set of example projects for AWS Managed Services including Amazon RDS, Amazon Aurora.
 
 ## License
 
